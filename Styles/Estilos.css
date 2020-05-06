@@ -1,0 +1,27 @@
+p{
+   font-size: x-large;
+   color:white;
+   text-align: justify;
+   text-indent: 50px;
+}
+h1,h2{
+    background-color: rgba(255,0,0,0.5);
+    color:white;
+}
+body{
+    background-color: black;
+}
+
+figure#Sing{
+    position: relative;
+}
+
+figure#Sing figcaption{
+    position: absolute;
+    top: -21px;
+    left: 455px;
+}
+
+img{
+    margin: 0px 10px 0px 10px;
+}
